@@ -1,4 +1,4 @@
-public class Hello
+public class  Hello
 {
    public static void main(String[] args)
    {
@@ -7,5 +7,5 @@ public class Hello
        System.out.println("Hello World ..." +i);
      }
    }
-}   
-  
+}
+
